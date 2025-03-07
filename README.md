@@ -91,6 +91,7 @@ Feel free to explore the projects and reach out if you have any questions!
 
 ---
 
+
 ### 🌐 **Connect with Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/amna-b-61913817b/">
@@ -103,4 +104,3 @@ Feel free to explore the projects and reach out if you have any questions!
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
