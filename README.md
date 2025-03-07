@@ -93,13 +93,14 @@ Feel free to explore the projects and reach out if you have any questions!
 
 ### 🌐 **Connect with Me**
 <p align="left">
-  <a href="https://www.linkedin.com/in/amna-b-61913817b/" target="_blank">
+  <a href="https://www.linkedin.com/in/amna-b-61913817b/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> 
   </a>
-  <a href="https://medium.com/@amnabarzan" target="_blank">
+  <a href="https://medium.com/@amnabarzan">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="Medium" width="40" height="40"/> 
   </a>
-  <a href="mailto:amnabarzan@gmail.com" target="_blank">
+  <a href="mailto:amnabarzan@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
